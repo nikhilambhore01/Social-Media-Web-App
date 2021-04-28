@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/social-meadi-app/static/css/main.d131d8a3.chunk.css",
+    "main.js": "/social-meadi-app/static/js/main.46555a98.chunk.js",
+    "main.js.map": "/social-meadi-app/static/js/main.46555a98.chunk.js.map",
+    "runtime-main.js": "/social-meadi-app/static/js/runtime-main.4fb13984.js",
+    "runtime-main.js.map": "/social-meadi-app/static/js/runtime-main.4fb13984.js.map",
+    "static/js/2.334af1c2.chunk.js": "/social-meadi-app/static/js/2.334af1c2.chunk.js",
+    "static/js/2.334af1c2.chunk.js.map": "/social-meadi-app/static/js/2.334af1c2.chunk.js.map",
+    "index.html": "/social-meadi-app/index.html",
+    "static/css/main.d131d8a3.chunk.css.map": "/social-meadi-app/static/css/main.d131d8a3.chunk.css.map",
+    "static/js/2.334af1c2.chunk.js.LICENSE.txt": "/social-meadi-app/static/js/2.334af1c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fb13984.js",
+    "static/js/2.334af1c2.chunk.js",
+    "static/css/main.d131d8a3.chunk.css",
+    "static/js/main.46555a98.chunk.js"
+  ]
+}
